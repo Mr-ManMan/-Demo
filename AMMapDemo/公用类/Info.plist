@@ -20,10 +20,10 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>NSLocationAlwaysUsageDescription</key>
-	<string></string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>1111111</string>
+	<key>NSLocationUsageDescription</key>
+	<string>4444444</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>location</string>
