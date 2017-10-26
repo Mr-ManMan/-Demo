@@ -1,0 +1,13 @@
+platform:ios,’8.0’
+
+target ‘AMMapDemo’ do
+
+pod 'AMapNavi-NO-IDFA', '~> 5.1.0'
+
+pod 'AMapSearch-NO-IDFA', '~> 5.2.1'
+
+pod 'AMapLocation-NO-IDFA', '~> 2.4.0'
+
+pod 'MBProgressHUD', '~> 1.0.0'
+
+end
